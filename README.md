@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lugman-Hussain-Khan
 - 👀 I’m interested in both front-end and back-end web developement
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning serverless architecture
 - 📫 Reach me out - lugmanhussainkhan@gmail.com
 
 <!---
